@@ -1,1 +1,2 @@
-
+#Descompactar o arquivo 'descompactar_dist_pastas_txt' que está na próxima pasta.
+#Descompactar o arquivo 'descompactar_ext_app' que está na próxima pasta.
