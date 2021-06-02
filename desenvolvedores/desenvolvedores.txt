@@ -1,1 +1,2 @@
-
+#Para facilitar a verificação das funções favor substituir os seguintes caracteres nos códigos fonte: #print por print.
+#Fica a dica.
