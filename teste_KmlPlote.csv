@@ -1,0 +1,8 @@
+"ID","Título","Observação","Ponto inicial","Ponto final","Quantidade","Unidade","Zona1","Cor","Marcador","largura_linha"
+0,"Simão Campos",,"23-614151:8222719",,1,"un","K","Verde",,
+1,"Montes Claros",,"23-621704:8150122",,1,"un","K","Vermelho","http://maps.google.com/mapfiles/kml/shapes/sunny.png",
+2,"Uberaba",,"23-191953:7813818",,1,"un","K","Amarelo",,
+3,"Gov. Valadares",,"24-188506:7912632",,1,"un","K","Azul","http://maps.google.com/mapfiles/kml/shapes/flag.png",
+4,"Belo Horizonte","Belo Horizonte - Santa Luzia","23-611515:7797389","23-611004:7811589","14,275","km","K","Azul",,3
+5,"Belo Horizonte","Belo Horizonte - Ibirité","23-611515:7797389","23-598593:7785402","17,654","km","K","Amarelo",,6
+6,"Belo Horizonte","Belo Horizonte - Nova Lima","23-611515:7797389","23-620452:7788874","12,363","km","K","Verde",,9
